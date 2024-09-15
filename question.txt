@@ -1,0 +1,2 @@
+Hi i didnt knew how to contact you otherwise . I looked at your code and just wanted to ask how did you interface between the sbg device (whatever you had either ellipse n or something) and your laptop ie to fdisplay the data.
+Iknow you must have used arduino but what was interfacing it and the sbg device?
